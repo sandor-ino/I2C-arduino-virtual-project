@@ -1,4 +1,4 @@
-# I2C-arduino-virtual-prject whit PROTEUS
+# I2C-arduino-virtual-project whit PROTEUS
 i2c arduino panel control for 3d printer virtual project
 
 This is a virtual prototype project to control a 3D printer with a skirt via the I2C and Arduino communication channel.
