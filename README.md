@@ -9,4 +9,4 @@ From the change I expect to have more memory and pins available to add functions
 It is however a base to make two arduino work connected with I2C.
 
 test link:
-https://www.youtube.com/watch?v=FTpn1qINlrs
+https://www.youtube.com/watch?v=qsDIeXsnF8Y
